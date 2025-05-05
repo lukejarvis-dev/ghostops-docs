@@ -1,1 +1,21 @@
-Wipe Claude Primer
+W# Claude Memory Primer (Redacted)
+
+This file originally contained internal memory instructions for Claude-based AI agents under the GhostOps.ai umbrella.
+
+All operational logic, module commands, and control prompts have been removed for security.
+
+---
+
+If you're viewing this file:
+
+GhostOps modules include:
+- GhostGPT: Modular AI assistant for secure code generation, research, and task orchestration
+- GhostOS: Encrypted OS with fabrication, drone, and AI mesh capabilities
+- Jarvis Lite: Tactical assistant for robotics, comms, and secure automation
+- GhostPuntr: Sports + racing AI for form analysis and EV wagering
+- GhostGrid: Distributed compute mesh for AI tasks, render workloads, and off-grid AI swarm control
+
+---
+
+For serious collaboration, contact:
+**ghostops.contact@protonmail.com**
